@@ -23,5 +23,8 @@
 - ```index.js``` 파일 내 3번째 line에 본인이 생성한 API Gateway 리소스 이름 입력
 - [파일 업로드 웹 페이지 구축: (5) AWS API Gateway 생성](https://heytech.tistory.com/407)
 
+## 실행 결과
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/80144296/172520734-66186f43-512a-453d-8bd9-59233444111e.gif)
+
 ## 참고자료
 - 유튜브, [How to Build a File Upload System on AWS with React and a Serverless API | Lambda, S3, API Gateway](https://www.youtube.com/watch?v=IgAE-ycnb94)
