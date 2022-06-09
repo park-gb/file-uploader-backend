@@ -14,6 +14,7 @@
 - [파일 업로드 웹 페이지 구축: (5) AWS API Gateway 생성](https://heytech.tistory.com/407)
 
 ### 3) Backend 코드 수정
+- 참고: [파일 업로드 웹 페이지 구축: (6) AWS Lambda 함수 작성](https://heytech.tistory.com/408)
 #### (1) S3 버킷 이름 입력
 - ```file-processing-service.js``` 파일 내 5번째 line에 본인이 생성한 S3 버킷 이름 입력
 - [파일 업로드 웹 페이지 구축: (4) AWS S3 생성](https://heytech.tistory.com/406)
