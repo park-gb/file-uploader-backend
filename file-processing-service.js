@@ -2,7 +2,7 @@ const AWS = require('aws-sdk');
 const s3 = new AWS.S3();
 const util = require("./util");
 
-const bucketName = '생성한 S3 버킷 이름 입력';
+const bucketName = '생성한 S3 버킷 이름 입력'; // S3 버킷이름 입력
 const s3Subfolder = 'data';
 
 async function process(requestBody){
